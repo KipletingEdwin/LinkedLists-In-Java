@@ -31,6 +31,8 @@ public class Main {
         linkedList.addFirst("0");
         linkedList.addLast("G");
 
+        String first = linkedList.removeFirst();
+
 //        linkedList.poll();
 
         System.out.println(linkedList);
