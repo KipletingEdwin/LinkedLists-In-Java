@@ -26,6 +26,7 @@ public class Main {
         linkedList.indexOf("F");
 
         System.out.println(linkedList.peekFirst());
+        System.out.println(linkedList.peekLast());
 
 //        linkedList.poll();
 
