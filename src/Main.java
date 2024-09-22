@@ -13,6 +13,8 @@ public class Main {
         linkedList.push("D");
         linkedList.push("F");
 
+        linkedList.poll();
+
         System.out.println(linkedList);
 
     }
