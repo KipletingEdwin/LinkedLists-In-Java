@@ -7,11 +7,18 @@ public class Main {
 
         LinkedList<String> linkedList = new LinkedList<String>();
 
-        linkedList.push("A");
-        linkedList.push("B");
-        linkedList.push("C");
-        linkedList.push("D");
-        linkedList.push("F");
+//        linkedList.push("A");
+//        linkedList.push("B");
+//        linkedList.push("C");
+//        linkedList.push("D");
+//        linkedList.push("F");
+//        linkedList.pop();
+
+        linkedList.offer("A");
+        linkedList.offer("B");
+        linkedList.offer("C");
+        linkedList.offer("D");
+        linkedList.offer("F");
 
         linkedList.poll();
 
