@@ -32,6 +32,7 @@ public class Main {
         linkedList.addLast("G");
 
         String first = linkedList.removeFirst();
+        String last = linkedList.removeLast();
 
 //        linkedList.poll();
 
