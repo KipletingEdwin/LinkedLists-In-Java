@@ -23,6 +23,8 @@ public class Main {
         linkedList.add(4, "E");
         linkedList.remove("E");
 
+        linkedList.indexOf("F");
+
 //        linkedList.poll();
 
         System.out.println(linkedList);
