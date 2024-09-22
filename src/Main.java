@@ -29,6 +29,7 @@ public class Main {
 //        System.out.println(linkedList.peekLast());
 
         linkedList.addFirst("0");
+        linkedList.addLast("G");
 
 //        linkedList.poll();
 
