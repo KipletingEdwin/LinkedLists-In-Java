@@ -20,7 +20,9 @@ public class Main {
         linkedList.offer("D");
         linkedList.offer("F");
 
-        linkedList.poll();
+        linkedList.add(4, "E");
+
+//        linkedList.poll();
 
         System.out.println(linkedList);
 
