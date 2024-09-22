@@ -21,6 +21,7 @@ public class Main {
         linkedList.offer("F");
 
         linkedList.add(4, "E");
+        linkedList.remove("E");
 
 //        linkedList.poll();
 
