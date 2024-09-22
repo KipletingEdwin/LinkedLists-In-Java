@@ -25,12 +25,14 @@ public class Main {
 
         linkedList.indexOf("F");
 
-        System.out.println(linkedList.peekFirst());
-        System.out.println(linkedList.peekLast());
+//        System.out.println(linkedList.peekFirst());
+//        System.out.println(linkedList.peekLast());
+
+        linkedList.addFirst("0");
 
 //        linkedList.poll();
 
-//        System.out.println(linkedList);
+        System.out.println(linkedList);
 
     }
 }
