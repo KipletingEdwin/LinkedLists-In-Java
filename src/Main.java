@@ -25,9 +25,11 @@ public class Main {
 
         linkedList.indexOf("F");
 
+        System.out.println(linkedList.peekFirst());
+
 //        linkedList.poll();
 
-        System.out.println(linkedList);
+//        System.out.println(linkedList);
 
     }
 }
